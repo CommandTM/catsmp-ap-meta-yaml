@@ -1,5 +1,5 @@
 meta_description: Cat SMP meta.yaml
 Jigsaw:
   minimum_number_of_pieces_per_bundle: 10
-  percentage_fillers_itempool: 95
+  percentage_fillers_itempool: 0
   enable_clues: true
