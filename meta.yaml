@@ -3,3 +3,12 @@ Jigsaw:
   minimum_number_of_pieces_per_bundle: 10
   percentage_fillers_itempool: 0
   enable_clues: true
+Kingdom Hearts 2:
+  FillerItemsLocal: true
+Sonic Adventure 2 Battle:
+  chao_race_difficulty: none
+  chao_karate_difficulty: none
+  chao_stats: 0
+  chao_kindergarten: none
+Hollow Knight:
+  progression_balancing: 0
