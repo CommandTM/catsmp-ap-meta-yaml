@@ -12,3 +12,6 @@ Sonic Adventure 2 Battle:
   chao_kindergarten: none
 Hollow Knight:
   progression_balancing: 0
+Rabbit and Steel:
+    excluded_kingdoms: []
+    item_sanity: none
