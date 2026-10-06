@@ -12,4 +12,6 @@ This Meta YAML is used in the bi-monthly private [Archipelago](https://archipela
     - Most Chao World related checks are forced off
 - Hollow Knight
     - Progression balancing is forced to zero
-
+- Plants Vs. Zombies Fusion
+    - Minigame Sanity forced to none
+        - This is because the feature is currently very buggy (As of October 2026), will be removed  when feature is more stable
