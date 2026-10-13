@@ -4,6 +4,7 @@
 | [Voltorb Flip](https://github.com/BlastSlimey/Archipelago/releases?q=Voltorb+Flip) | All checks can be sent immediatley, no actual blocking |
 | [Balatro](https://github.com/BurndiL/BalatroAP/releases) | Very easy to create horrible, unenjoyable settings. This ban will be lifted once someone more knowledgeable than me opens a pull request to this repo and creates meta.yaml options to help prevent this |
 | [Quake III Arena](https://github.com/randomcodegen/Quake3e_ap/releases) | Lots of bugged locations that don't send + bad logic (Last checked October 2026) |
+| [Hacknet](https://github.com/AutumnRivers/Archipelago-Hacknet/releases) | Unstable in asyncs (possibly from lacking DLC) (Last checked October 2026) |
 
 If you'd like to see a ban lifted for any game on this list, contact me and I will reevaluate.
 These bans are not blanket bans, but instead are bans on specific implementations.
