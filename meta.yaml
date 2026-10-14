@@ -1,7 +1,7 @@
 meta_description: Cat SMP meta.yaml
 Jigsaw:
   minimum_number_of_pieces_per_bundle: 10
-  percentage_fillers_itempool: 0
+  add_fillers: 'false'
   enable_clues: true
 Kingdom Hearts 2:
   FillerItemsLocal: true
